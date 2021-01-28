@@ -29,7 +29,7 @@
     "clipboard": "^2.0.4",
     "connect": "3.4.1",
     "del": "2.2.2",
-    "electron": "2.0.8",
+    "electron": "9.4.0",
     "electron-builder": "20.28.4",
     "electron-builder-squirrel-windows": "20.28.3",
     "electron-packager": "12.1.1",
